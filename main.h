@@ -5,6 +5,5 @@
 #include <stdarg.h>
 
 int _printf(const char *format, ...);
-int main();
-
+int handles(void);
 #endif
